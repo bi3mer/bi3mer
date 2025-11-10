@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![bi3mer's Stats](https://github-readme-stats.vercel.app/api?username=bi3mer&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
+
+
 <!--
 **bi3mer/bi3mer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
