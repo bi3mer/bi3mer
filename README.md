@@ -1,3 +1,5 @@
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=bi3mer)](https://github.com/bi3mer/github-readme-profile)
+
 # Tools
 ## General
 - [adjust.h](https://github.com/bi3mer/adjust.h) - a single header library written in C99 for adjusting hardcoded parameters while debugging and fiddling around with values.
