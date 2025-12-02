@@ -28,7 +28,7 @@ A visual editor for GDM graphs.
 
 | C99 | C++ | TypeScript | Rust |
 |-----|-----|------------|------|
-| [Wordle](https://github.com/bi3mer/c-wordle) | [Snake](https://bi3mer.github.io/raylib_tests/snake/) | [Sisyphus's Dungeon](https://github.com/bi3mer/scary_dungeon_js) | [Connect 4](https://github.com/bi3mer/connect-four) |
+| [Wordle](https://github.com/bi3mer/c-wordle) | [Snake](https://github.com/bi3mer/raylib_tests/tree/main/snake) | [Sisyphus's Dungeon](https://github.com/bi3mer/scary_dungeon_js) | [Connect 4](https://github.com/bi3mer/connect-four) |
 | [Tic-Tac-Toe](https://github.com/bi3mer/c-tic-tac-toe) | [Pong](https://github.com/bi3mer/raylib_tests/tree/main/pong) | [Recformer](https://github.com/bi3mer/recformer) | [Pong](https://github.com/bi3mer/pongrs) |
 | [Snake](https://github.com/bi3mer/c-snake) |  | [DungeonGrams](https://github.com/bi3mer/DungeonGrams-TS) | |
 | [Pong](https://github.com/bi3mer/raylib-pong) |  | [Rock Paper Scissors](https://github.com/bi3mer/rock_paper_scissors) | |
