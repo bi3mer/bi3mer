@@ -36,7 +36,7 @@ A visual editor for GDM graphs.
 
 ## Visualization
 
-| C++ | TypeScript |
-|-----|------------|
-| [Hilbert Curves](https://github.com/bi3mer/raylib_tests/tree/main/hilbert_curves) | [Quad Tree](https://github.com/bi3mer/quad_tree_visualization) |
-| [Game of Life](https://github.com/bi3mer/raylib_tests/tree/main/conways_game_of_life) | [Doom Fire](https://github.com/bi3mer/doom-fire) | 
+| C99 | C++ | TypeScript |
+|-----|-----|------------|
+| [A*, BFS, & DFS](https://github.com/bi3mer/pathfinding-example) | [Hilbert Curves](https://github.com/bi3mer/raylib_tests/tree/main/hilbert_curves) | [Quad Tree](https://github.com/bi3mer/quad_tree_visualization) |
+| | [Game of Life](https://github.com/bi3mer/raylib_tests/tree/main/conways_game_of_life) | [Doom Fire](https://github.com/bi3mer/doom-fire) | 
