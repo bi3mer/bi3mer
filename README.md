@@ -11,8 +11,6 @@ A single-header C99 library for hot-reloading hardcoded parameters at runtime. U
 **[go-test](https://github.com/bi3mer/go-test)**  
 A Go implementation of [try](https://github.com/tobi/try/tree/main).
 
-### Dissertation Research
-
 **[Ponos](https://github.com/bi3mer/ponos)**  
 A tool for building Markov Decision Processes that assemble video game levels for dynamic difficulty adjustment.
 
